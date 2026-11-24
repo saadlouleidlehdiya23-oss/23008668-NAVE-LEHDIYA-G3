@@ -1,0 +1,1 @@
+Fichier source extrait des deux séries WDI de la Banque mondiale pour le Maroc. Période conservée dans ce dépôt : 1992–2024, avant calcul de la première différence du chômage. Script de récupération actualisée : `src/telecharger_donnees.py`.
