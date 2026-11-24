@@ -1,12 +1,3 @@
-# Déclaration d'utilisation de l'intelligence artificielle
+# Déclaration d'utilisation des outils d'IA
 
-Outil utilisé : ChatGPT (OpenAI).
-
-Utilisation :
-- Assistance à l'organisation du projet.
-- Compréhension des consignes.
-- Aide à la préparation de l'environnement de travail.
-
-Vérification :
-Les informations et les résultats du projet seront vérifiés par l'étudiant.
-Le code et les résultats seront compris et contrôlés avant la remise.
+Une assistance par ChatGPT a été utilisée pour aider à structurer le rapport, reformuler certains passages et organiser les fichiers du dépôt. Les données quantitatives, l'estimation du modèle et les métriques présentées doivent être vérifiées à partir du notebook exécuté. L'étudiante demeure responsable de la vérification des sources, du code, des résultats et du contenu final remis.
